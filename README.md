@@ -1,1 +1,14 @@
-# iOSProjectsA
+# Swift Projects
+
+<ul>
+  <li>
+    <a href="https://github.com/Harshul-18/iOSProjectsA/tree/main/Dupple">
+      Dupple: News Application
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Harshul-18/iOSProjectsA/tree/main/Dupple">
+      Unit Conversion App
+    </a>
+  </li>
+</ul>
