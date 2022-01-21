@@ -8,7 +8,7 @@
     <br> Works in Dark and Light Mode.
   </p>
   <p>
-    <img src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/DarkMode.png" width="250" height="450" />
-    <img src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/LightMode.png" width="250" height="450" />
+    <img src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/DuppleDarkMode.png" width="250" height="450" />
+    <img src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/DuppleLightMode.png" width="250" height="450" />
   </p>
 </div>
