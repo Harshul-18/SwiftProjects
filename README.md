@@ -7,7 +7,7 @@
     </a>
   </li>
   <li>
-    <a href="https://github.com/Harshul-18/iOSProjectsA/tree/main/Dupple">
+    <a href="https://github.com/Harshul-18/SwiftProjects/tree/main/UnitConversion">
       Unit Conversion App
     </a>
   </li>
