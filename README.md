@@ -11,4 +11,9 @@
       Unit Conversion App
     </a>
   </li>
+  <li>
+    <a href="https://github.com/Harshul-18/SwiftProjects/tree/main/PokedexApp">
+      Pokedex
+    </a>
+  </li>
 </ul>
